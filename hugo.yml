@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: hanyashi.netlify.app
 languageCode: en-us
 title: hanyashi-dev
 theme: PaperMod
@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "hi! i'm richie!"
     subtitle: "musician, web dev, tamaraw"
-    imageUrl: "yoshida.png"
+    imageUrl: "https://i.ibb.co/G4wzjD5F/yoshida.png"
     imageTitle: "art by csm_ny"
     imageWidth: 200
     imageHeight: 200
