@@ -1,0 +1,31 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: hanyashi-dev
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "hi! i'm richie!"
+    subtitle: "musician, web dev, tamaraw"
+    imageUrl: "yoshida.png"
+    imageTitle: "art by csm_ny"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: about me
+        url: "/about-me"
+      - name: hobby stuff
+        url: "/hobbies"
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/heyitshansel/"
+    - name: twitter
+      url: "twitter.com/hanyashi_"
+    - name: youtube
+      url: "https://www.youtube.com/@hanyashi"
+    - name: spotify
+      url: "https://open.spotify.com/user/hanselrey1014?si=6d95c79065794e07"
+    - name: github
+      url: ""
