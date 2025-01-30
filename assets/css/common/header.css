@@ -79,6 +79,10 @@ body:not(.dark) #sun {
     margin: auto 4px;
 }
 
+.logo-switches button {
+    margin-left: auto;
+}
+
 .lang-switch {
     display: flex;
     flex-wrap: inherit;
