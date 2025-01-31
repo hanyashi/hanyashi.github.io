@@ -25,7 +25,7 @@ params:
     - name: instagram
       url: "https://www.instagram.com/heyitshansel/"
     - name: twitter
-      url: "twitter.com/hanyashi_"
+      url: "https://twitter.com/hanyashi_"
     - name: youtube
       url: "https://www.youtube.com/@hanyashi"
     - name: spotify
