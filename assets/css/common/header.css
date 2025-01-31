@@ -11,6 +11,14 @@
     display: block;
 }
 
+.nav button {
+    transition: 0.5s;
+}
+.nav button:hover {
+    background-color: var(--tertiary);
+    border-radius: 50%;
+}
+
 .logo,
 #menu {
     display: flex;
@@ -24,7 +32,6 @@
 .logo a:hover {
     text-decoration-color: var(--primary) !important;
 }
-
 
 .logo a {
     font-size: 20px;
