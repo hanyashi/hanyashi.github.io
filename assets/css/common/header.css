@@ -12,8 +12,8 @@
 }
 
 .nav button {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: 35px;
     transition: 0.5s;
     font: icon !important;
 }
