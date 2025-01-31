@@ -35,6 +35,7 @@ body {
 .social-icons a {
     display: inline-flex;
     padding: 10px;
+    border-radius: 10%;
     transition: 0.5s;
 }
 
