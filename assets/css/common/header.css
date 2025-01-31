@@ -22,7 +22,7 @@
 }
 
 .logo a:hover {
-    text-decoration-color: aliceblue;
+    text-decoration-color: var(--primary);
 }
 
 .logo a {
@@ -30,7 +30,6 @@
     font-weight: 700;
     font-style: italic;
     margin-right: 5px;
-    text-decoration: underline rgba(0, 0, 0, 0);
     transition: all 0.5s;
 }
 
