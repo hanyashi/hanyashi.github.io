@@ -1,7 +1,6 @@
 .nav {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
     max-width: calc(var(--nav-width) + var(--gap) * 2);
     margin-inline-start: auto;
     margin-inline-end: auto;
@@ -40,7 +39,6 @@
 
 button#theme-toggle {
     font-size: 26px;
-    margin: auto 4px;
 }
 
 body.dark #moon {
@@ -79,8 +77,8 @@ body:not(.dark) #sun {
     margin: auto 4px;
 }
 
-.logo-switches button {
-    margin-left: auto;
+#theme-toggle {
+    margin-left: auto !important;
 }
 
 .lang-switch {

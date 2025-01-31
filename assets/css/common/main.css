@@ -43,6 +43,14 @@ body {
     border-radius: 50%;
 }
 
+.buttons .button{
+    transition: 0.5s;
+}
+.buttons .button:hover {
+    background-color: var(--secondary);
+    color: var(--tertiary);
+}
+
 .social-icons a svg {
     height: 26px;
     width: 26px;
