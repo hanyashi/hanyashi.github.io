@@ -4,6 +4,9 @@ title: hanyashi-dev
 theme: PaperMod
 
 params:
+  assets:
+    favicon: "https://i.ibb.co/wNTLHTPF/c325a43e962e9cd1e214c532fd6e8b8a-removebg-preview.png"
+    favicon32x32: "https://i.ibb.co/wNTLHTPF/c325a43e962e9cd1e214c532fd6e8b8a-removebg-preview.png"
   profileMode:
     enabled: true
     title: "hi! i'm richie!"
