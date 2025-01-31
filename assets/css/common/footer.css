@@ -21,6 +21,10 @@
     white-space: nowrap;
 }
 
+.attribs {
+    font-size: 8px;
+}
+
 .footer a {
     color: inherit;
     border-bottom: 1px solid var(--secondary);
