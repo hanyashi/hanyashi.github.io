@@ -13,6 +13,7 @@
 
 .nav button {
     width: 50px;
+    height: 50px;
     transition: 0.5s;
 }
 .nav button:hover {
