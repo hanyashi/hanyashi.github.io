@@ -15,6 +15,7 @@
     width: 50px;
     height: 50px;
     transition: 0.5s;
+    font: icon !important;
 }
 .nav button:hover {
     background-color: var(--tertiary);
